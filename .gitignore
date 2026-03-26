@@ -1,0 +1,16 @@
+# 忽略 PyCharm 项目配置文件
+.idea/
+
+# 忽略原始数据文件夹
+data/
+
+# 忽略处理后的数据文件夹
+processed_data/
+
+# 如果你也不想上传那个预实验文件夹，取消下面一行的注释：
+# 第一次预实验/
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
